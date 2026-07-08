@@ -65,7 +65,7 @@ In `capacitor.config.json`:
 In `capacitor.config.ts`:
 
 ```ts
-/// <reference types="@capacitor/local-notifications" />
+/// <reference types="@f0079/local-notifications" />
 
 import { CapacitorConfig } from '@capacitor/cli';
 
